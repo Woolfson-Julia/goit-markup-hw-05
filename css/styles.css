@@ -616,7 +616,6 @@ margin-left: 16px;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 408px;
-  height: 80%;
   min-height: 584px;
   border-radius: 4px;
   background-color: #fcfcfc;
@@ -657,7 +656,7 @@ transform: translate(-50%, -50%) scale(1.5);
 .modal-close-btn:hover,
 .modal-close-btn:focus {
   background-color: #404bbf;
-   border: none; 
+  border: none; 
   fill: #ffffff;
 }
 
